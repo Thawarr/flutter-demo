@@ -1,0 +1,1 @@
+flutter clean && flutter pub get && flutter pub run flutter_application_id:main -f config.yaml && flutter pub run flutter_launcher_icons:main -f config.yaml && flutter build apk --build-name=1.3.3 --build-number=3
